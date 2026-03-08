@@ -1,0 +1,7 @@
+pgvector/
+.vscode/
+*.session.sql
+*.log
+__pycache__/
+*.pyc
+.env
